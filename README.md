@@ -4,6 +4,7 @@
     <img src="https://img.shields.io/badge/Lives-South%20Africa-success" />
     <img src="https://img.shields.io/badge/Languages-English-brightgreen" />
 
+    ---
     [![](https://visitcount.itsvg.in/api?id=bee25&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
 
