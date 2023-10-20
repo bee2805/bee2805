@@ -9,7 +9,7 @@
 
 <hr>
 <h1 align="center" style="color: 'White'">Hello World👋🏻, I'm Bronwyn Potgieter </h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=51F731&center=true&vCenter=true&random=false&width=450&lines=Full+Stack+Web+developer;Front+End+App+Developer;Graphic+Designer;Always+Learning+new+Things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=51F731&vCenter=true&random=false&width=435&lines=Full+Stack+Web+developer;Front+End+App+Developer;Graphic+Designer;Always+Learning+new+Things" alt="Typing SVG" /></a>
 
 ### 🫶🏼 About Me:
 - 📚 I'm currently stadying a BA in Creative Technologies 
@@ -18,7 +18,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am obsessed with house plants
 
-<h3>Connect with me:</h3>
+### Connect with me:
 <div>
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bronwyn-potgieter-200350241/)
@@ -26,3 +26,33 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bronwyn.potgieter@outlook.com)
   
 </div>
+
+## 📘 My top open source projects
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘 Project</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🤝 Forks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/bee2805/TheWiccaHouse"><b>The Wicca House</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/bee2805/creativerse"><b>Creativerse</b></a></td>
+    </tr>
+     <tr>
+      <td><a href="https://github.com/leandervanaarde/universe"><b>UniVerse</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/bee2805/GreenPath"><b>GreenPath</b></a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="left">
+  <a href="https://github.com/bee2805?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
+</p>
