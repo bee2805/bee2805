@@ -3,6 +3,8 @@
     <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen" />
     <img src="https://img.shields.io/badge/Lives-South%20Africa-success" />
     <img src="https://img.shields.io/badge/Languages-English-brightgreen" />
+
+    [![](https://visitcount.itsvg.in/api?id=bee25&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
 
 <img width="100%" height = "100%" src="https://github.com/bee2805/bee2805/blob/main/assets/github_profile_pic.png" alt="cover" />
@@ -78,6 +80,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=bee25&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bee25&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bee25&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=bee25&icon=0&color=0)](https://visitcount.itsvg.in)
