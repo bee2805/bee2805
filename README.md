@@ -12,7 +12,7 @@
 
 <hr>
 <h1 align="center" style="color: 'White'">Hello World👋🏻, I'm Bronwyn Potgieter </h1>
-<a href="https://git.io/typing-svg"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=51F731&vCenter=true&random=false&width=435&lines=Full+Stack+Web+developer;Front+End+App+Developer;Graphic+Designer;Always+Learning+new+Things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img  align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=51F731&vCenter=true&random=false&width=435&lines=Full+Stack+Web+developer;Front+End+App+Developer;Graphic+Designer;Always+Learning+new+Things;Occasional+Gamer" alt="Typing SVG" /></a>
 
 ### 🫶🏼 About Me:
 - 📚 I'm currently stadying a BA in Creative Technologies 
