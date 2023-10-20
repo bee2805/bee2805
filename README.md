@@ -27,7 +27,7 @@
   
 </div>
 
-## 📘 My top open source projects
+## 📘 My 3rd Year Projects
 
 <table>
   <thead align="center">
@@ -40,15 +40,23 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/bee2805/TheWiccaHouse"><b>The Wicca House</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/bee2805/TheWiccaHouse?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/bee2805/TheWiccaHouse?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/bee2805/creativerse"><b>Creativerse</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/bee2805/creativerse?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/bee2805/creativerse?style=flat-square&labelColor=343b41"/></td>
     </tr>
      <tr>
-      <td><a href="https://github.com/leandervanaarde/universe"><b>UniVerse</b></a></td>
+      <td><a href="https://github.com/https://github.com/leandervanaarde/universe"><b>UniVerse</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/https://github.com/leandervanaarde/universe?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/https://github.com/leandervanaarde/universe?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/bee2805/GreenPath"><b>GreenPath</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/bee2805/GreenPath?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/bee2805/GreenPath?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
