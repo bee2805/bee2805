@@ -18,8 +18,8 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am obsessed with house plants
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
+<h3>Connect with me:</h3>
+<div>
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bronwyn-potgieter-200350241/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantlauro/)
