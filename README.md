@@ -55,9 +55,9 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/bee2805/creativerse?style=flat-square&labelColor=343b41"/></td>
     </tr>
      <tr>
-      <td><a href="https://github.com/https://github.com/leandervanaarde/universe"><b>UniVerse</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/https://github.com/leandervanaarde/universe?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/https://github.com/leandervanaarde/universe?style=flat-square&labelColor=343b41"/></td>
+        <td><a href="https://github.com/bee2805/creativerse"><b>Universe</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/leandervanaarde/universe?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/leandervanaarde/universe?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/bee2805/GreenPath"><b>GreenPath</b></a></td>
@@ -81,4 +81,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bee28&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bee28&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bee28&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bee28&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
