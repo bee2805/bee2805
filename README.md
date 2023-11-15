@@ -79,6 +79,6 @@
 <br/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bee28&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bee28&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bee28&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![bee2805's Stats](https://github-readme-stats.vercel.app/api?username=bee2805&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
+![bee2805's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bee2805&theme=material-palenight&hide_border=true)
+![bee2805's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bee2805&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
