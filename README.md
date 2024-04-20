@@ -19,7 +19,7 @@
 - 🤔 I like to work with the MEAN and MERN stacks
 - 🌱 I’m currently learning Python and ML
 - 😄 Pronouns: She/Her
-- 📚 Online Portfolio: [Click Here!](https://bronzeportfolio.co.za/)
+<!-- - 📚 Online Portfolio: [Click Here!](https://bronzeportfolio.co.za/)-->
 - ⚡ Fun fact: The term "bug" in computer programming originated when a moth got stuck in a relay of the Harvard Mark II computer in 1947, causing a malfunction.
 
 ### Connect with me:
